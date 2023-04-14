@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+A simple react.js project to learn props, state, and react hooks useState and useEffect. 
+https://www.youtube.com/watch?v=9U3IhLAnSxM
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
